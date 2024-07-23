@@ -46,5 +46,5 @@ frontend felix-frontend-https
 
 backend felix-backend
         balance roundrobin
-        server 6238-web-01 54.196.216.8:80 check
-        server 6238-web-02 98.80.15.59:80 check
+        server 6244-web-01 3.91.243.141:80 check
+        server 6244-web-02 54.242.96.251:80 check
